@@ -1,6 +1,6 @@
 [options]
 addons_path = ./odoo/addons,./addons
-admin_passwd = $pbkdf2-sha512$25000$jLEWQsiZcw6BcE4JQYgR4g$PBa22D9K8gPlrI2yXs7Q2R0dlIRjCLyRD9P3.0b8C6BuKnRvL8f9AD48jxv2Qkmy8Q0pfRrHqyINYiQgui3imw
+admin_passwd = 530311d1b5842df02b333e32171403ad502f781418eaa5eb1e0c6cdd59fc163f
 csv_internal_sep = ,
 data_dir = /home/nguyenthanhtung/.local/share/Odoo
 db_host = ec2-23-21-164-107.compute-1.amazonaws.com
