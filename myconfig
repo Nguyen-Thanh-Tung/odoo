@@ -1,16 +1,16 @@
 [options]
-addons_path = /media/nguyenthanhtung/Learning/odoo-11.0/odoo/addons,/media/nguyenthanhtung/Learning/odoo-11.0/addons,/media/nguyenthanhtung/Learning/modules
+addons_path = ./odoo/addons,./addons
 admin_passwd = $pbkdf2-sha512$25000$jLEWQsiZcw6BcE4JQYgR4g$PBa22D9K8gPlrI2yXs7Q2R0dlIRjCLyRD9P3.0b8C6BuKnRvL8f9AD48jxv2Qkmy8Q0pfRrHqyINYiQgui3imw
 csv_internal_sep = ,
 data_dir = /home/nguyenthanhtung/.local/share/Odoo
-db_host = False
+db_host = ec2-23-21-164-107.compute-1.amazonaws.com
 db_maxconn = 64
-db_name = False
-db_password = False
-db_port = False
+db_name = db73nafdts07bp
+db_password = 530311d1b5842df02b333e32171403ad502f781418eaa5eb1e0c6cdd59fc163f
+db_port = 5432
 db_sslmode = prefer
 db_template = template1
-db_user = False
+db_user = wzwcmemkrsgzez
 dbfilter = 
 demo = {}
 email_from = False
