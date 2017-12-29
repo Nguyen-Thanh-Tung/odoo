@@ -1,16 +1,16 @@
 [options]
 addons_path = ./odoo/addons,./addons
-admin_passwd = 530311d1b5842df02b333e32171403ad502f781418eaa5eb1e0c6cdd59fc163f
+admin_passwd = test
 csv_internal_sep = ,
 data_dir = /home/nguyenthanhtung/.local/share/Odoo
 db_host = ec2-23-21-164-107.compute-1.amazonaws.com
 db_maxconn = 64
-db_name = db73nafdts07bp
-db_password = 530311d1b5842df02b333e32171403ad502f781418eaa5eb1e0c6cdd59fc163f
+db_name = False
+db_password = False
 db_port = 5432
 db_sslmode = prefer
 db_template = template1
-db_user = wzwcmemkrsgzez
+db_user = wzwcmemkrsgzez:530311d1b5842df02b333e32171403ad502f781418eaa5eb1e0c6cdd59fc163f
 dbfilter = 
 demo = {}
 email_from = False
